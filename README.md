@@ -1,4 +1,5 @@
 #Validación de XML mediante XSD y Expresiones Regulares
+
 Descripción
 En este proyecto se ha creado un documento XML que contiene información de varios usuarios registrados.
 Para comprobar que los datos introducidos son correctos, se ha diseñado un esquema XSD que valida la estructura del XML y aplica diferentes restricciones utilizando expresiones regulares (RegEx).
