@@ -1,4 +1,4 @@
-#Validación de XML mediante XSD y Expresiones Regulares
+Validación de XML mediante XSD y Expresiones Regulares
 
 Descripción
 En este proyecto se ha creado un documento XML que contiene información de varios usuarios registrados.
